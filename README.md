@@ -1,6 +1,11 @@
 # Getting-Buff163-Prices-With-API-Free
 This program retrieves buy and sell prices for Counter-Strike 2 (CS2) items from the Buff163 marketplace. It automatically fetches the latest item marketplace IDs from a maintained GitHub JSON database and queries Buff163’s public API to obtain real-time market data.
 
+and thx to this guy that had ids ready :
+https://github.com/ModestSerhat/cs2-marketplace-ids
+https://github.com/ModestSerhat/cs2-marketplace-ids
+https://github.com/ModestSerhat/cs2-marketplace-ids
+
 The script is capable of identifying and handling special item variants such as:
 
 Doppler phases (Phase 1–4)
