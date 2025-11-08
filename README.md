@@ -60,7 +60,7 @@ Converts and displays the final highest buy and lowest sell prices in USD.
 example:
 python cs2_buff_price_fetcher.py
 Enter item name(s) (separate multiple items with ';'):
-★ Karambit | Doppler Phase 2; ★ M9 Bayonet | Ruby
+★ Karambit | Doppler (Factory New) - Phase 2
 
 
 
