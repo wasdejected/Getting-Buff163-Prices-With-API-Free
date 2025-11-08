@@ -3,8 +3,6 @@ This program retrieves buy and sell prices for Counter-Strike 2 (CS2) items from
 
 and thx to this guy that had ids ready :
 https://github.com/ModestSerhat/cs2-marketplace-ids
-https://github.com/ModestSerhat/cs2-marketplace-ids
-https://github.com/ModestSerhat/cs2-marketplace-ids
 
 The script is capable of identifying and handling special item variants such as:
 
